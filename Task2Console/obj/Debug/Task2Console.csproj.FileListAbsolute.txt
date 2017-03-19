@@ -1,0 +1,8 @@
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task2Console\bin\Debug\Task2Console.exe.config
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task2Console\bin\Debug\Task2Console.exe
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task2Console\bin\Debug\Task2Console.pdb
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task2Console\bin\Debug\Task2Logic.dll
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task2Console\bin\Debug\Task2Logic.pdb
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task2Console\obj\Debug\Task2Console.csprojResolveAssemblyReference.cache
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task2Console\obj\Debug\Task2Console.exe
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task2Console\obj\Debug\Task2Console.pdb

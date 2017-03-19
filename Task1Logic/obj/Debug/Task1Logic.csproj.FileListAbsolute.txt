@@ -1,0 +1,5 @@
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task1Logic\obj\Debug\Task1Logic.csprojResolveAssemblyReference.cache
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task1Logic\bin\Debug\Task1Logic.dll
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task1Logic\bin\Debug\Task1Logic.pdb
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task1Logic\obj\Debug\Task1Logic.dll
+E:\runv\visual studio 2015\EPAM_TRAINING\EPAM.Spring.Voinich.3\Task1Logic\obj\Debug\Task1Logic.pdb
